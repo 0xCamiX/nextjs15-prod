@@ -11,6 +11,13 @@
     "format": "prettier --write ."
   },
   "dependencies": {
+    "@typescript-eslint/parser": "^8.32.1",
+    "eslint-config-prettier": "^10.1.5",
+    "eslint-plugin-import": "^2.31.0",
+    "eslint-plugin-playwright": "^2.2.0",
+    "eslint-plugin-prettier": "^5.4.0",
+    "eslint-plugin-simple-import-sort": "^12.1.1",
+    "eslint-plugin-unicorn": "^59.0.1",
     "next": "15.3.2",
     "prettier": "^3.5.3",
     "prettier-plugin-tailwindcss": "^0.6.11",
